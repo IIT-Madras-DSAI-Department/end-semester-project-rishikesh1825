@@ -6,9 +6,9 @@
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
-> Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
-
----
+> This repository has the complete implementation of the predicting the labels of MNIST_validation.csv upon training the various models on ML_train.csv .
+> There are 3 files in total. 2 .py files and 1 pdf .
+> In the Algorithms_ML_lab.py there are all the algorithms or models that I tried on and the best model is used in the Main_training.py .
 
 **Important Note:** 
 1. TAs will evaluate using the `.py` file only.
@@ -18,15 +18,18 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
-
----
+* I have submitted 3 files in total.
+* 2 .py files, names Algorithms_ML_lab.py and Main_training.py.
+* And a pdf named ML-lab-endsem-report
 
 ## 📦 Installation & Dependencies
 
-* Mention all the related instructions for installation of related packages for running your code here.
-
----
+* Install the below packages if not already installed:
+* pandas
+* numpy
+* sklearn.metrics
+* matplotlib.pyplot
+* time
 
 ## ▶️ Running the Code
 
@@ -34,9 +37,8 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ### A. Command-line (recommended for grading)
 
-* Mention the instructions to run you .py files.
-  
----
+* Download both the .py files and place them in the same folder as the datasets, so that you can run the code directly without mentioning the file paths.
+* And then install the above packages if they are not already installed.
 
 ## You can further add your own sections/titles along with corresponding contents here:
 
@@ -44,12 +46,4 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
-
-
-## Best Practices:
-* Keep commits with meaningful messages.
-* Please do not write all code on your local machine and push everything to GitHub on the last day. The commits in GitHub should reflect how the code has evolved during the course of the assignment.
-* Collaborations and discussions with other students is strictly prohibited.
-* Code should be modularized and well-commented.
-
+**<V.Rishikesh, DA24B050>**, IIT Madras (2025–26)
