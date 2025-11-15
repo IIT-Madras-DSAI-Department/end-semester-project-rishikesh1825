@@ -39,7 +39,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 * Download both the .py files and place them in the same folder as the datasets, so that you can run the code directly without mentioning the file paths.
 * And then install the above packages if they are not already installed.
-
+* And please wait for 5-7 mins for the code to run, it is taking less than 5 mins in my laptop.
 ## You can further add your own sections/titles along with corresponding contents here:
 
 ---
