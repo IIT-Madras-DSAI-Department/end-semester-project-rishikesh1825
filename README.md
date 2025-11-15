@@ -5,10 +5,10 @@
 
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
-> **Scope (as per assignment brief):**
-> This repository has the complete implementation of the predicting the labels of MNIST_validation.csv upon training the various models on ML_train.csv .
-> There are 3 files in total. 2 .py files and 1 pdf .
-> In the Algorithms_ML_lab.py there are all the algorithms or models that I tried on and the best model is used in the Main_training.py .
+
+* This repository has the complete implementation of the predicting the labels of MNIST_validation.csv upon training the various models on ML_train.csv .
+* There are 3 files in total. 2 .py files and 1 pdf .
+* In the Algorithms_ML_lab.py there are all the algorithms or models that I tried on and the best model is used in the Main_training.py .
 
 **Important Note:** 
 1. TAs will evaluate using the `.py` file only.
@@ -46,4 +46,4 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<V.Rishikesh, DA24B050>**, IIT Madras (2025–26)
+**V.Rishikesh, DA24B050**, IIT Madras (2025–26)
